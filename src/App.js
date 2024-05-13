@@ -37,7 +37,7 @@ function App() {
               />
             </div>
             <div>
-              <button onClick={handleBuscarUsuario}>Buscar Usuario</button>
+              <button className='boton' onClick={handleBuscarUsuario}>Buscar Usuario</button>
             </div>
           </div>
 
